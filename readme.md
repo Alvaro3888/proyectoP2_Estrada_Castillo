@@ -11,3 +11,5 @@ Por otro lado, el dueño tiene un panel exclusivo donde puede ver estadísticas 
 Además, el sistema permite crear distintos usuarios con diferentes permisos, para que el empleado solo pueda vender y el dueño tenga acceso total. Todo funciona en red, lo que permite usarlo desde varias computadoras al mismo tiempo dentro del local.
 
 En resumen, buscamos que el sistema sea práctico, claro, y que resuelva las necesidades reales del comercio sin hacerlo más complicado de lo necesario.
+
+# Colaborador: Manuel Serrano
